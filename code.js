@@ -15,7 +15,6 @@ btn.addEventListener("click", function() {
   pageCounter++;
   if (pageCounter > 1) {
     btn.classList.add("hide-me");
-    inputEmail.classList.add("hide-me");
   }
 });
 
