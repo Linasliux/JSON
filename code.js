@@ -18,6 +18,7 @@ btn.addEventListener("click", function() {
   }
 });
 
+
 function renderHTML(data) {
   var htmlString = "";
 
